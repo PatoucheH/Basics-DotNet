@@ -1,0 +1,15 @@
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\bin\Debug\net8.0\courses.exe
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\bin\Debug\net8.0\courses.deps.json
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\bin\Debug\net8.0\courses.runtimeconfig.json
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\bin\Debug\net8.0\courses.dll
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\bin\Debug\net8.0\courses.pdb
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\courses.AssemblyInfoInputs.cache
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\courses.AssemblyInfo.cs
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\courses.csproj.CoreCompileInputs.cache
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\courses.sourcelink.json
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\courses.dll
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\refint\courses.dll
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\courses.pdb
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\courses.genruntimeconfig.cache
+C:\code\becode\DotNet\3-csharp-configuration-PatoucheH\courses\obj\Debug\net8.0\ref\courses.dll
